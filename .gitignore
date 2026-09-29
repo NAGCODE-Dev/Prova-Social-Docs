@@ -1,0 +1,9 @@
+# Obsidian - arquivos temporários
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Sistema/editor
+.DS_Store
+Thumbs.db
